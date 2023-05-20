@@ -1,0 +1,18 @@
+{
+    "name": "shmel/gtipackage",
+    "description": "gtipackage",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Timur",
+            "email": "shmelev20@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Shmel\\GtiPackage\\": "src/"
+        }
+    },
+    "require": {}
+}
